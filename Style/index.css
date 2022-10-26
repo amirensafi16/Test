@@ -39,7 +39,7 @@ body {
   body .one .o-2 div .icon {
     width: 40%;
     height: 100%;
-    background: url(/image/avada-logo-svg.svg) no-repeat center;
+    background: url(./image/avada-logo-svg.svg) no-repeat center;
     background-size: 150px;
     position: absolute;
     left: 1%;
