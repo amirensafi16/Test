@@ -61,7 +61,7 @@ body {
   body .one .o-2 div #check:checked ~ .la > .l-3 {
     transform: rotate(-45deg);
     bottom: 48%;
-    background-color: #000000;
+    background-color: #ffe979;
   }
   body .one .o-2 div .la {
     width: 100%;
